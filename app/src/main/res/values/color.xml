@@ -1,0 +1,8 @@
+<resources>
+
+    <color name="background">#ffae38</color>
+    <color name="fragment1">#ff892b</color>
+    <color name="fragment2">#f0e213</color>
+    <color name="restaurant">#7adb55</color>
+    <color name="text">#2d27db</color>
+</resources>

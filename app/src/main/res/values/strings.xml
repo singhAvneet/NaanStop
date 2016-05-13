@@ -1,0 +1,107 @@
+<resources>
+<string name="app_name">Assignment2</string>
+
+<string name="hello_world">Enter</string>
+<string name="action_settings">Settings</string>
+    <string name="prompt">Choose a Reastaurant</string>
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">
+AIzaSyDgaMOzVt34h_9vfKjl_DK59QsuYiO8muI
+    </string>
+
+    <string name="TypeOfFood">Please Choose\nthe type of\nFood</string>
+    <string-array name="foodType">
+    <item >Italian</item>
+    <item >Indian</item>
+    <item >Chinese</item>
+        <item >Fast Food</item>
+    </string-array>
+
+    <string-array name="italianReastaurant">
+        <item name ="pizza">Enoteca Sociale</item>
+        <item >7 Numbers</item>
+        <item >Donatello Restaurant</item>
+           </string-array>
+    <string-array name="indianReastaurant">
+        <item >Banjara Indian</item>
+        <item >Little Indian</item>
+        <item >Lahore Tikka</item>
+    </string-array>
+    <string-array name="chineseReastaurant">
+        <item >Swatow Restaurant</item>
+        <item >Bamboo Buddha</item>
+        <item >Szechuan Express</item>
+        <item >Lai Wah Heen</item>
+    </string-array>
+    <string-array name="fastFoodReastaurant">
+        <item >McDoanl keel</item>
+        <item >KFC Eglinton</item>
+    </string-array>
+
+
+    <string-array name="indian_1">
+        <item >Indian_1_dish1</item>
+        <item >Indian_1_dish2</item>
+        <item >Indian_1_dish3</item>
+    </string-array>
+    <string-array name="indian_2">
+        <item >Indian_2_dish1</item>
+        <item >Indian_2_dish2</item>
+    </string-array>
+    <string-array name="indian_3">
+        <item >Indian_3_dish1</item>
+        <item >Indian_3_dish2</item>
+        <item >Indian_3_dish3</item>
+    </string-array>
+
+    <string-array name="Chinese_1">
+        <item >Chinese_1_dish1</item>
+        <item >Chinese_1_dish2</item>
+        <item >Chinese_1_dish3</item>
+        <item >Chinese_1_dish4</item>
+    </string-array>
+    <string-array name="Chinese_2">
+        <item >Chinese_2_dish1</item>
+        <item >Chinese_2_dish2</item>
+    </string-array>
+    <string-array name="Chinese_3">
+        <item >Chinese_3_dish1</item>
+        <item >Chinese_3_dish2</item>
+        <item >Chinese_3_dish3</item>
+
+    </string-array>
+    <string-array name="Chinese_4">
+        <item >Chinese_4_dish1</item>
+        <item >Chinese_4_dish2</item>
+        <item >Chinese_4_dish3</item>
+    </string-array>
+
+
+
+    <string-array name="Italian_1">
+        <item >Italian_1_dish1</item>
+        <item >Italian_1_dish2</item>
+        <item >Italian_1_dish3</item>
+        <item >Italian_1_dish4</item>
+    </string-array>
+    <string-array name="Italian_2">
+        <item >Italian_2_dish1</item>
+        <item >Italian_2_dish2</item>
+        <item >Italian_2_dish3</item>
+    </string-array>
+    <string-array name="Italian_3">
+        <item >Italian_3_dish1</item>
+        <item >Italian_3_dish2</item>
+        <item >Italian_3_dish3</item>
+
+    </string-array>
+    <string-array name="McDoanl">
+        <item >McDoanl_1</item>
+        <item >McDoanl_2</item>
+    </string-array>
+    <string-array name="KFC">
+        <item >KFC_1</item>
+        <item >KFC_2</item>
+    </string-array>
+
+
+</resources>
